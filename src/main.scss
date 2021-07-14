@@ -1,0 +1,31 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css");
+body{
+  margin-top:10px;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background-color: aliceblue;
+}
+.bid-list{
+  list-style-type: none;
+  text-align: center;
+  
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.product-uuid{
+  font-size: 10px;
+  color:gray;
+}
+.active{
+  background-color: bisque;
+}
+.disable-div{
+  pointer-events: none;
+  opacity: 0.4;
+}
+.pointer{
+  cursor: pointer;
+}
