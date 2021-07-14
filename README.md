@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to auction-web-app 👋</h1>
+<h1 align="center">auction-web-app 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -7,6 +7,8 @@
 </p>
 
 > auction-web-app
+
+### Before get started : Don't forget to change node-server/server.js mongoDB private URL to connect your database
 
 ## ✨ [Demo](https://auction-case-study-private.vercel.app/)
 
@@ -44,10 +46,3 @@ npm run test
 
 * Website: https://www.tatli.dev/
 * Github: [@emintatli](https://github.com/emintatli)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
