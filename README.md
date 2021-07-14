@@ -9,7 +9,9 @@
 > auction-web-app
 
 ### Before get started : Don't forget to change node-server/server.js mongoDB private URL to connect your database
-
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="mongodb" width="40" height="40"/><br/></p>
+  
 ### ✨ Add Product API : https://auction-case-study-server.herokuapp.com/add_product/productname123  (change productname123)
 
 ## ✨ [Demo](https://auction-case-study-private.vercel.app/)
