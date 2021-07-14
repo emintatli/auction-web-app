@@ -10,10 +10,9 @@
 
 ### Before get started : Don't forget to change node-server/server.js mongoDB private URL to connect your database
 
+### ✨ Add Product API : https://auction-case-study-server.herokuapp.com/add_product/productname123  (change productname123)
+
 ## ✨ [Demo](https://auction-case-study-private.vercel.app/)
-
-## ✨ Add Product API : https://auction-case-study-server.herokuapp.com/add_product/productname123  (change productname123)
-
 ## ✨ Video Demo : https://www.youtube.com/watch?v=uUcg8MPsUE0
 
 <p align="center"><img src="https://i.hizliresim.com/d0pihxc.png"></img></p>
